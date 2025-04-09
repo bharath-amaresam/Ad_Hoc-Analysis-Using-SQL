@@ -5,7 +5,7 @@ Welcome to the Atliq Exclusive - Business Insights Project, where SQL meets stor
 <img src = "https://github.com/user-attachments/assets/5005efa1-4acc-4493-b3a9-f0d1ab087904" width="600" height="350"/>
 
 ## **Important Links**
-### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_hello-my-awesome-%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%9D%F0%9D%90%88%F0%9D%90%A7-network-activity-7249829602448056320-hq3X?utm_source=share&utm_medium=member_desktop)
+### [LINKEDIN POST](https://www.linkedin.com/posts/amaresam-sai-bharath-chand-47ba50168_adhoc-analysis-activity-7315754378085208066-yZgt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgFj58BoP2A-0POvwS4i3iyqDd6SpSslbo)
 ### [PRESENTATION](https://github.com/user-attachments/files/19651340/Ad_Hoc.Presentation.pdf)
 ### [SQL CODES](https://github.com/user-attachments/files/19657422/SQL_codes_Ad_Hoc_analysis.pdf)
 
